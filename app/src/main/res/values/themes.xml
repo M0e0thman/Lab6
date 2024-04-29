@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="CustomAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize the color of the app bar -->
+        <item name="colorPrimary">#FFEB3B</item>
+        <!-- Customize the color of the status bar -->
+        <item name="colorPrimaryDark">#FF9800</item>
+        <!-- Customize the color of buttons -->
+        <item name="colorButtonNormal">#52FF22</item>
+    </style>
+
+</resources>
